@@ -1,0 +1,21 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "A simple node project to test basic functions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "get-age": "^1.0.1",
+    "uuid": "^11.0.3"
+  }
+}
