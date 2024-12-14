@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test yargs.plugin Should return default 1`] = `
+{
+  "$0": "node_modules\\jest-worker\\build\\workers\\processChild.js",
+  "_": [],
+  "b": 5,
+  "base": 5,
+  "d": "files",
+  "destination": "files",
+  "l": 10,
+  "limit": 10,
+  "n": "table",
+  "name": "table",
+  "s": false,
+  "show": false,
+}
+`;
