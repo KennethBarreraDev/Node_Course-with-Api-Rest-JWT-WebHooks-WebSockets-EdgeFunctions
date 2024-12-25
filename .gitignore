@@ -1,3 +1,10 @@
 node_modules/
 *.log
 *.env
+/mongo
+/postgres
+/dist
+/coverage
+/logs
+# Local Netlify folder
+.netlify
